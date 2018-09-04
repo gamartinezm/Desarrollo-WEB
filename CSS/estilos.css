@@ -162,6 +162,16 @@ p {
 }
 
 
+.principal {
+    width: 100%;
+}
+
+
+h2 {
+  margin-top: 3%;
+
+}
+
 /* .shared-panel{
 	overflow: auto;
 }
